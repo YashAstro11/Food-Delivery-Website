@@ -74,7 +74,7 @@
     align-items: center;
 }
 #home::before{
-    content: " ";
+    content: "";
     background: url('bg1.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0px;
